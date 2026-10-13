@@ -1,0 +1,6 @@
+venv/
+dataset/
+__pycache__/
+*.pyc
+webcam_test.jpg
+sign_language_model_augmented.keras
